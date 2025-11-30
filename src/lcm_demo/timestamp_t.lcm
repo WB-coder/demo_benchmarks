@@ -1,0 +1,6 @@
+package lcm_demo;
+
+struct timestamp_t
+{
+    int64_t timestamp_ns;
+}
